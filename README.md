@@ -1,6 +1,8 @@
 # Path Planning Algorithm Test
 This is Path Planning Algorithm Test on ROS2-PX4 Environment.
 
+- Ubuntu 22.04 LTS
+- ROS2 Humble
 
 ## Node Construction
 ### Publisher Node
