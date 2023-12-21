@@ -1,0 +1,24 @@
+[0.649s] Invoking command in '/home/moonjung/ws_ros2/src/py_pubsub': PYTHONPATH=/home/moonjung/ws_ros2/build/py_pubsub/prefix_override:/home/moonjung/ws_ros2/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/moonjung/ws_ros2/build/py_pubsub/build install --record /home/moonjung/ws_ros2/build/py_pubsub/install.log --single-version-externally-managed
+[0.872s] running egg_info
+[0.873s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[0.873s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[0.873s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[0.874s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[0.874s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[0.875s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.876s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.876s] running build
+[0.877s] running build_py
+[0.877s] running install
+[0.877s] running install_lib
+[0.877s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.877s]   warnings.warn(
+[0.878s] running install_data
+[0.878s] running install_egg_info
+[0.880s] removing '/home/moonjung/ws_ros2/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info' (and everything under it)
+[0.880s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/moonjung/ws_ros2/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info
+[0.881s] running install_scripts
+[0.903s] Installing listener script to /home/moonjung/ws_ros2/install/py_pubsub/lib/py_pubsub
+[0.903s] Installing talker script to /home/moonjung/ws_ros2/install/py_pubsub/lib/py_pubsub
+[0.903s] writing list of installed files to '/home/moonjung/ws_ros2/build/py_pubsub/install.log'
+[0.937s] Invoked command in '/home/moonjung/ws_ros2/src/py_pubsub' returned '0': PYTHONPATH=/home/moonjung/ws_ros2/build/py_pubsub/prefix_override:/home/moonjung/ws_ros2/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/moonjung/ws_ros2/build/py_pubsub/build install --record /home/moonjung/ws_ros2/build/py_pubsub/install.log --single-version-externally-managed

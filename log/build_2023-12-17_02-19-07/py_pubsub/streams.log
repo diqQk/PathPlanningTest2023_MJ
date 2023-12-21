@@ -1,0 +1,43 @@
+[0.699s] Invoking command in '/home/moonjung/ws_ros2/src/py_pubsub': PYTHONPATH=/home/moonjung/ws_ros2/build/py_pubsub/prefix_override:/home/moonjung/ws_ros2/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/moonjung/ws_ros2/build/py_pubsub/build install --record /home/moonjung/ws_ros2/build/py_pubsub/install.log --single-version-externally-managed
+[0.897s] running egg_info
+[0.897s] creating ../../build/py_pubsub/py_pubsub.egg-info
+[0.898s] writing ../../build/py_pubsub/py_pubsub.egg-info/PKG-INFO
+[0.898s] writing dependency_links to ../../build/py_pubsub/py_pubsub.egg-info/dependency_links.txt
+[0.898s] writing entry points to ../../build/py_pubsub/py_pubsub.egg-info/entry_points.txt
+[0.898s] writing requirements to ../../build/py_pubsub/py_pubsub.egg-info/requires.txt
+[0.898s] writing top-level names to ../../build/py_pubsub/py_pubsub.egg-info/top_level.txt
+[0.898s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.899s] reading manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.900s] writing manifest file '../../build/py_pubsub/py_pubsub.egg-info/SOURCES.txt'
+[0.900s] running build
+[0.900s] running build_py
+[0.901s] creating /home/moonjung/ws_ros2/build/py_pubsub/build
+[0.901s] creating /home/moonjung/ws_ros2/build/py_pubsub/build/lib
+[0.901s] creating /home/moonjung/ws_ros2/build/py_pubsub/build/lib/py_pubsub
+[0.901s] copying py_pubsub/subscriber_member_function.py -> /home/moonjung/ws_ros2/build/py_pubsub/build/lib/py_pubsub
+[0.901s] copying py_pubsub/publisher_member_function.py -> /home/moonjung/ws_ros2/build/py_pubsub/build/lib/py_pubsub
+[0.901s] copying py_pubsub/__init__.py -> /home/moonjung/ws_ros2/build/py_pubsub/build/lib/py_pubsub
+[0.902s] running install
+[0.902s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.902s]   warnings.warn(
+[0.902s] running install_lib
+[0.903s] creating /home/moonjung/ws_ros2/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[0.903s] copying /home/moonjung/ws_ros2/build/py_pubsub/build/lib/py_pubsub/subscriber_member_function.py -> /home/moonjung/ws_ros2/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[0.903s] copying /home/moonjung/ws_ros2/build/py_pubsub/build/lib/py_pubsub/publisher_member_function.py -> /home/moonjung/ws_ros2/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[0.903s] copying /home/moonjung/ws_ros2/build/py_pubsub/build/lib/py_pubsub/__init__.py -> /home/moonjung/ws_ros2/install/py_pubsub/lib/python3.10/site-packages/py_pubsub
+[0.903s] byte-compiling /home/moonjung/ws_ros2/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/subscriber_member_function.py to subscriber_member_function.cpython-310.pyc
+[0.904s] byte-compiling /home/moonjung/ws_ros2/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/publisher_member_function.py to publisher_member_function.cpython-310.pyc
+[0.904s] byte-compiling /home/moonjung/ws_ros2/install/py_pubsub/lib/python3.10/site-packages/py_pubsub/__init__.py to __init__.cpython-310.pyc
+[0.904s] running install_data
+[0.905s] creating /home/moonjung/ws_ros2/install/py_pubsub/share/ament_index
+[0.905s] creating /home/moonjung/ws_ros2/install/py_pubsub/share/ament_index/resource_index
+[0.905s] creating /home/moonjung/ws_ros2/install/py_pubsub/share/ament_index/resource_index/packages
+[0.905s] copying resource/py_pubsub -> /home/moonjung/ws_ros2/install/py_pubsub/share/ament_index/resource_index/packages
+[0.905s] copying package.xml -> /home/moonjung/ws_ros2/install/py_pubsub/share/py_pubsub
+[0.906s] running install_egg_info
+[0.907s] Copying ../../build/py_pubsub/py_pubsub.egg-info to /home/moonjung/ws_ros2/install/py_pubsub/lib/python3.10/site-packages/py_pubsub-0.0.0-py3.10.egg-info
+[0.907s] running install_scripts
+[0.924s] Installing listener script to /home/moonjung/ws_ros2/install/py_pubsub/lib/py_pubsub
+[0.924s] Installing talker script to /home/moonjung/ws_ros2/install/py_pubsub/lib/py_pubsub
+[0.924s] writing list of installed files to '/home/moonjung/ws_ros2/build/py_pubsub/install.log'
+[0.944s] Invoked command in '/home/moonjung/ws_ros2/src/py_pubsub' returned '0': PYTHONPATH=/home/moonjung/ws_ros2/build/py_pubsub/prefix_override:/home/moonjung/ws_ros2/install/py_pubsub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_pubsub build --build-base /home/moonjung/ws_ros2/build/py_pubsub/build install --record /home/moonjung/ws_ros2/build/py_pubsub/install.log --single-version-externally-managed
