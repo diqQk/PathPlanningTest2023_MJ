@@ -8,9 +8,11 @@ This node pubilshes a message with Image Data Path.
 
 ### Subscriber Node
 This node subscribes a message with Image Data Path.
-And it runs a path planning algorithms and calculate a cost.
+And it runs a path planning algorithms and calculates a cost in terminal.
 
-## Terminal (navigate a ros2 workspace)
+## Run 
+Navigate a ros2 workspace
+
 ### Terminal 1 
 colcon build --packages-select py_pubsub
 
